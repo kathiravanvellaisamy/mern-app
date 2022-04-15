@@ -106,6 +106,7 @@ h3 {
   cursor: pointer;
   border: none;
   background: none;
+  font-size: 20px;
 }
 
 .form,
@@ -161,7 +162,6 @@ h3 {
 }
 
 .btn-block {
-  width: 100%;
   margin-bottom: 20px;
 }
 
@@ -211,5 +211,9 @@ h3 {
 
   .heading p {
     font-size: 1.5rem;
+  }
+  .goals {
+    display: block;
+    width: 100%;
   }
 }
